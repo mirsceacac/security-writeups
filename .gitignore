@@ -4,4 +4,10 @@
 *.ovpn
 .DS_Store
 Thumbs.db
+*.env.*
+notes/raw/
+notes/*.log
+nmap_*
+*.pcap
 __pycache__/
+*.pyc
